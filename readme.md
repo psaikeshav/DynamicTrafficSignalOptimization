@@ -38,9 +38,8 @@ We use a traffic simulator called **SUMO** to create a virtual road network and 
 
 ## Results
 
- <img width="500" alt="Image" src="https://github.com/user-attachments/assets/3c14235c-98c4-40ec-bdb1-360f6d8c1cce" />
- 
- ## Output
- 
- <img width="500" alt="Image" src="https://github.com/user-attachments/assets/cdac278e-0ec8-49c2-ba40-089ddb1edadf" />
-# DynamicTrafficSignalOptimization
+<img width="227" alt="Image" src="https://github.com/user-attachments/assets/cc3b64b7-12d3-41bd-a07e-0cb12c2ff0f6" />
+
+## Output
+
+<img width="227" alt="Image" src="https://github.com/user-attachments/assets/8822beb9-d9df-4483-8352-d8bc2cabaee6" />
